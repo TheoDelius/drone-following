@@ -1,7 +1,7 @@
 #installations
 from djitellopy import tello
 from cvzone.PoseModule import PoseDetector
-from mainPIDs import PIDs
+from PID import PIDs
 import cv2 as cv
 from time import sleep
 
